@@ -1,2 +1,2 @@
 # Jpotify-Java-Project
-Simulation of Spotify using Jav
+Simulation of Spotify using Java
